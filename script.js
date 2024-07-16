@@ -1,0 +1,1 @@
+let imageButton = document.querySelector('#imageButton')
